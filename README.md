@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=Welcome%20to%20👋-nl-Changho's%20Github&fontSize=78&animation=twinkling)
+<div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=Welcome%20to%20👋-nl-Changho's%20Github&fontSize=78&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChanghoJJang&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdgh6589)](https://solved.ac/ckdgh6589/)
 
-<div align=center>
 <!-- Introduce -->
 <h3 align="center">👋 Hello! I'm Backend Developer, Leechangho</h3>
 
@@ -16,10 +16,11 @@
   :computer: Samsung Software Academy for Youth (SSAFY) 11th (2024.1 ~ )
 </p>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChanghoJJang&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Skills -->
 <strong>:star: Skills :star:</strong>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChanghoJJang&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <p>Front</p>
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
+
 <div>
   <p>Back</p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
