@@ -5,7 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdgh6589)](https://solved.ac/ckdgh6589/)
 
 <!-- Introduce -->
-<h3 align="center">👋 Hello! I'm Backend Developer, Leechangho</h3>
+<h3 align="center">👋 Hello! I'm Backend Developer and Data Engineer, Leechangho</h3>
 
 <br/>
 
